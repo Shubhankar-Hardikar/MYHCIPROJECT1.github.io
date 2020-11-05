@@ -3,7 +3,7 @@
 }
 body{
     color:white;
-        background-color: black;
+    background-color: black;
 }
 .dropbtn {
     background-color: black;
@@ -50,7 +50,6 @@ body{
     height: 0;
     visibility: hidden;
     clear: both;
-
   }
   
  #first{

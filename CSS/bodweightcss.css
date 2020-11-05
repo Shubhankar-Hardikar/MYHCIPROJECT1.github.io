@@ -1,7 +1,7 @@
 body{
-        color:white;
-        background-color:black;
-        margin: 0px;
+    color:white !important;
+    background-color:black ;
+    margin: 0px;
 }
 .header{
     border-bottom: 10px solid rgb(226, 15, 15);

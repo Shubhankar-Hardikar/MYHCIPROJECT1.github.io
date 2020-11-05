@@ -1,6 +1,6 @@
 body{
-    color:white;
-    background-color:black;
+    color:white !important;
+    background-color:black ;
     margin: 0px;
 }
 .header{
@@ -39,70 +39,67 @@ color: white;
 text-decoration: none;
 }
 .titlebod{
-background-color:#f2f2f2;
+background-color: white;
 color: black;
-height: 1885.5px;
+height: 1325px;
 }
 .titlebod h1{
 background-color: white;
 display: block;
-padding: 90px;
-text-align: center;
-color:white;
-font-family:"roboto";
-font-size: 100px;
+padding: 60px;
+text-align:center;
+color: #3e3e3e;
+font-family: "Roboto";
+font-size: 70px;
 text-transform: uppercase;
-border: 21px solid #bf051e;
-width: 67%;
+border: 14px solid #ac091f;
 max-width: 100%;
-margin-left: 7.2%;
+margin-left: 0%;
 margin-top: 0px;
-line-height: 1.2px;
+/*line-height: 22px;*/
 font-style: normal;
 text-rendering: optimizeLegibility;
 clear: both;
 position: relative;
-top:35px;
-text-shadow: 0 0 13px rgba(0,0,0,.88);
+top:10px;
 }
 .titlebod h2{
 text-align: center;
-font-size: 69px;
+font-size: 50px;
 line-height: 1.2em;
 width: 77%;
 max-width: 100%;
 margin-left: 10.2%;
+margin-top: 7%;
 text-transform: uppercase;
 font-family: "Roboto Condensed", 'Helvetica Neue', Helvetica, sans-serif;
-font-weight: 700;
+font-weight: 600;
 font-style: normal;
 text-rendering: optimizeLegibility;
 clear: both;
 }
 .titlebod p{
-font-size:26px;
+font-size:35px;
 text-align: center;
 font-weight: 400;
 margin-left: 8%;
 margin-right: 9.5%;
-color: #637179;
-text-transform: uppercase;
-font-weight: 300;
-padding: 0%;
+color:rgb(61, 56, 56);
 }
-.bodimg{
-float: left;
-margin-left: 19%;
+.facts h3{
+text-align: center;
 margin-top: 5%;
-margin-bottom: 1%;
-border: 1px solid black;
+font-size: 50px;
 }
-.fullbodyimg{
-float: left;
-margin-left: 8%;
-margin-top: 5%;
-margin-bottom: 1%;
-border: 1px solid black;
+.listcentre{
+display:inline-block;
+/*()  text-align: center;
+list-style-position: inside;*/
+margin-left: 35%;
+margin-right: auto;
+font-size: 30px;
+margin-top: -1.5%;
+color: rgb(48, 34, 34);
 }
 .footer{
 clear: both;
@@ -118,12 +115,10 @@ margin-bottom: 2%;
 font-size: 18px;
 padding-bottom: 10px;
 border-bottom: 1px solid white;
-color: white;
 }
 .fc p{
 font-size: 13px;
 color: #a2a2a2;
-text-align: left;
 }
 .fm{
 float: left;
@@ -136,7 +131,6 @@ margin-bottom: 2%;
 font-size: 18px;
 padding-bottom: 10px;
 border-bottom: 1px solid white;
-color: white;
 }
 .fp{
 float: left;
@@ -148,7 +142,6 @@ margin-bottom: 2%;
 font-size: 18px;
 padding-bottom: 10px;
 border-bottom: 1px solid white;
-color: white;
 }
 .fp ul{
 font-size: 13px;
